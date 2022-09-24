@@ -1,0 +1,4 @@
+8.42
+5.68
+7.17
+Didziausias kiekis: 8.42

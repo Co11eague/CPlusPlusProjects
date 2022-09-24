@@ -1,0 +1,6 @@
+Mesa: 5.8
+Darzoves: 0.0
+Gerimai: 24.0
+Saldumynai: 15.6
+Kita: 18.8
+64.2

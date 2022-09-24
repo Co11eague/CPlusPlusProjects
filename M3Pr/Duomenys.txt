@@ -1,0 +1,9 @@
+1060
+250.50
+350.10
+5
+Kroatija 90
+Rusija 45
+Kinija 79
+Ispanija 120
+JAV 78

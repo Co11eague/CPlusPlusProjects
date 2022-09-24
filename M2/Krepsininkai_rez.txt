@@ -1,0 +1,3 @@
+ainius Adomaitis 0.71 16
+Šarūnas Jasikevičius 2.46 19
+Geresnis yra Šarūnas Jasikevičius
